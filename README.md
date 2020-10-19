@@ -1,6 +1,6 @@
 # Debezium-informix-connector 
 
-Debezium-informix-connector 是Debezium数据库复制工具的informix连接器
+Debezium-informix-connector 是Debezium针对informix数据库的connector插件
 
 
 
